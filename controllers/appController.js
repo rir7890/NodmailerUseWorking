@@ -1,3 +1,4 @@
+////////mhii|oppw|bkba|oyom
 const nodemailer = require("nodemailer");
 
 const signup = async (req, res) => {
